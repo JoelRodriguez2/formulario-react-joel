@@ -50,7 +50,8 @@ npm start
 
 http://localhost:3000
 
-3Probar el formulario:
+3. Probar el formulario:
+
 Completa los campos Nombre, Correo y Contraseña.
 
 Observa las validaciones dinámicas y mensajes de error.
