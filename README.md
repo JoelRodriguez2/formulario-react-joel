@@ -27,7 +27,7 @@ Proyecto de práctica: Formulario en React con Bootstrap y validaciones dinámic
 1. Clonar el repositorio:
 
 ```bash
-git clone https://github.com/JoelRodriguez2/formulario-react.git 5
+git clone https://github.com/JoelRodriguez2/formulario-react.git
 ```
 
 2. Entrar a la carpeta del proyecto:
