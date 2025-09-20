@@ -28,13 +28,14 @@ Proyecto de práctica: Formulario en React con Bootstrap y validaciones dinámic
 
 2. Guardalos en una carpeta
    
-3. Instalar las dependencias:
+3. Instalar las dependencias mediante la terminal cmd o PowerShell, seleccionando obviamente la carpeta donde están los archivos
+descargados del repositorio:
 
 npm install
 
 Al ejecutar npm install, esto descargará automáticamente todas las librerías necesarias, incluyendo React y Bootstrap.
 
-Ejecución
+##Ejecución
 
 1. Levantar el servidor de desarrollo:
 
