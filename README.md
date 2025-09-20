@@ -24,16 +24,10 @@ Proyecto de práctica: Formulario en React con Bootstrap y validaciones dinámic
 
 ## Instalación
 
-1. Clonar el repositorio:
+1. Descarga los archivos del repositorio
 
-```bash
-git clone https://github.com/JoelRodriguez2/formulario-react.git
-```
-
-2. Entrar a la carpeta del proyecto:
-
-cd formulario-react
-
+2. Guardalos en una carpeta
+   
 3. Instalar las dependencias:
 
 npm install
